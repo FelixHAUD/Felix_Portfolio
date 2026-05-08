@@ -48,6 +48,10 @@
   }
   
   @media screen and (max-width: 600px) {
+    .project-card {
+      width: 100%;
+      flex: 1 1 100%;
+    }
     #contact,
     footer {
       height: 40vh;
